@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldionScripts", "EldionScripts\EldionScripts.csproj", "{BEA8AC6B-1800-4D28-BF53-A334D2D24552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RareDropFollower", "RareDropFollower\RareDropFollower.csproj", "{13A4E76F-8519-4283-91CD-8D2F4A866460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA8AC6B-1800-4D28-BF53-A334D2D24552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA8AC6B-1800-4D28-BF53-A334D2D24552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA8AC6B-1800-4D28-BF53-A334D2D24552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA8AC6B-1800-4D28-BF53-A334D2D24552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A4E76F-8519-4283-91CD-8D2F4A866460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A4E76F-8519-4283-91CD-8D2F4A866460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A4E76F-8519-4283-91CD-8D2F4A866460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A4E76F-8519-4283-91CD-8D2F4A866460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
